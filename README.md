@@ -22,6 +22,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [SMBIOS](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.4.0.pdf)
 - [NVMe](https://nvmexpress.org/wp-content/uploads/NVM-Express-1_4a-2020.03.09-Ratified.pdf)
 - [raspberrypi](https://github.com/raspberrypi/documentation)
+- [RISC-V](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
 
 ## Articles
 
@@ -77,3 +78,4 @@ Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/pr
 - [NavyOS](https://github.com/Project-Navy/NavyOS)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64)
+- [raspberrypi_kernel](https://github.com/Njord0/raspberrypi_kernel)

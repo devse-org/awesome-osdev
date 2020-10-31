@@ -29,6 +29,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [CPU cores or what SMP is and what it is eaten with](https://sudonull.com/post/9813-CPU-cores-or-what-SMP-is-and-what-it-is-eaten-with)
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- [Wikipedia - Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 
 ## Wikis
 

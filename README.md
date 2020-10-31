@@ -2,17 +2,17 @@
 
 Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 
-## Tutoriels
+## Tutorials
 
-- [Pépin OS - Réaliser son propre système](https://michelizza.developpez.com/realiser-son-propre-systeme/)
-- [Le petit livre sur le développement d'un OS](https://systeme.developpez.com/tutoriels/systeme-exploitation/petit-livre-developpement-OS/)
+- **French** [Pépin OS - Réaliser son propre système](https://michelizza.developpez.com/realiser-son-propre-systeme/)
+- **French** [Le petit livre sur le développement d'un OS](https://systeme.developpez.com/tutoriels/systeme-exploitation/petit-livre-developpement-OS/)
 - [Operating System from 0 to 1](http://easing.me/books/Operating_System_From_0_to_1.pdf)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [Brokenthorn OS Development Series](http://www.brokenthorn.com/Resources/)
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 
-## Manuels
+## Manuals and Specifications
 
 - [Intel](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
 - [AMD](https://www.amd.com/system/files/TechDocs/24592.pdf)

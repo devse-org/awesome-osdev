@@ -67,6 +67,8 @@ Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/pr
 - [SerenityOS](http://serenityos.org/)
 - [managarm](https://github.com/managarm/managarm)
 - [sortix](https://gitlab.com/sortix/sortix)
+- [raspberrypi_kernel](https://github.com/Njord0/raspberrypi_kernel)
+
 
 ### Bootloaders
 
@@ -78,4 +80,3 @@ Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/pr
 - [NavyOS](https://github.com/Project-Navy/NavyOS)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64)
-- [raspberrypi_kernel](https://github.com/Njord0/raspberrypi_kernel)

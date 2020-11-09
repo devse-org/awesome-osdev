@@ -18,7 +18,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [Intel](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
 - [AMD](https://www.amd.com/system/files/TechDocs/24592.pdf)
 - [ACPI](https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf)
-- [UEFI](https://www.uefi.org/sites/default/files/resources/UEFI_Spec_2_7.pdf)
+- [UEFI](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)
 - [x86 COM](https://www.sci.muni.cz/docs/pc/serport.txt)
 - [SMBIOS](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.4.0.pdf)
 - [NVMe](https://nvmexpress.org/wp-content/uploads/NVM-Express-1_4a-2020.03.09-Ratified.pdf)

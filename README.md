@@ -24,6 +24,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [NVMe](https://nvmexpress.org/wp-content/uploads/NVM-Express-1_4a-2020.03.09-Ratified.pdf)
 - [raspberrypi](https://github.com/raspberrypi/documentation)
 - [RISC-V](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
+- [POSIX Specification (2007)](http://www.open-std.org/jtc1/sc22/open/n4217.pdf)
 
 ## Articles
 

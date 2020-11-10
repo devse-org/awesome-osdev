@@ -33,6 +33,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [Wikipedia - Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 - [Parsing Mach-O file](https://lowlevelbits.org/parsing-mach-o-files/)
+- [OS X ABI Mach-O File Format Reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - [Linux insides](https://github.com/0xAX/linux-insides)
 
 ## Wikis
@@ -55,9 +56,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 ## Design
 
 - [Operating systems : design and implementation](https://archive.org/details/OperatingSystemsDesignImplementation/mode/2up)
-- [Practical
-File System
-Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/practical-file-system-design.pdf)
+- [Practical File System Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 - [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [Communication in Microkernel-Based Operating Systems](https://os.inf.tu-dresden.de/papers_ps/aigner_phd.pdf)
 

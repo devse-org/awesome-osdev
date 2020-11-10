@@ -33,6 +33,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [Wikipedia - Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 - [Linux insides](https://github.com/0xAX/linux-insides)
+- [Linux / Windows Syscalls table](https://syscalls.w3challs.com/)
 
 ## Wikis
 

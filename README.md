@@ -32,6 +32,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [Wikipedia - Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+- [Linux insides](https://github.com/0xAX/linux-insides)
 
 ## Wikis
 

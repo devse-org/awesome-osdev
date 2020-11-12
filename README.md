@@ -36,6 +36,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [Parsing Mach-O file](https://lowlevelbits.org/parsing-mach-o-files/)
 - [OS X ABI Mach-O File Format Reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - [Linux insides](https://github.com/0xAX/linux-insides)
+- [Linux / Windows Syscalls table](https://syscalls.w3challs.com/)
 
 ## Wikis
 

@@ -10,6 +10,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
+- [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [Brokenthorn OS Development Series](http://www.brokenthorn.com/Resources/)
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 

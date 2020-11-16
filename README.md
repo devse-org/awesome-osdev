@@ -13,6 +13,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [Brokenthorn OS Development Series](http://www.brokenthorn.com/Resources/)
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
+- [The little book about OS development](https://littleosbook.github.io/)
 
 ## Manuals and Specifications
 

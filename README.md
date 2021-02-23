@@ -56,6 +56,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 - [Stephen Bourne: Early days of Unix and design of sh](https://www.youtube.com/watch?v=2kEJoWfobpA)
 - [Raspberry Pi Bare Metal Tutorial](https://youtu.be/pd9AVmcRc6U)
 - [Write your own Operating System](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
+- [From L3 to seL4 what have we learnt in 20 years of L4 microkernels?](https://www.youtube.com/watch?v=RdoaFc5-1Rk)
 
 ## Design
 

@@ -44,6 +44,7 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 
 - [osdev.org](https://wiki.osdev.org/Main_Page)
 - [osdev.wiki](https://osdev.wiki/)
+- **French** **Incomplete** [devse.wiki](https://devse.wiki/)
 
 ## Videos
 

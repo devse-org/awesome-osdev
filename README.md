@@ -87,6 +87,6 @@ Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 ### Made by DEVSE members
 
 - [Fukurō](https://github.com/d0p1s4m4/Fukuro)
-- [NavyOS](https://github.com/Project-Navy/NavyOS)
+- [Navy](https://github.com/keyboard-slayer/navy)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64)

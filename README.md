@@ -16,7 +16,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 - [The little book about OS development](https://littleosbook.github.io/)
 
-## Cours
+## Courses
 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 

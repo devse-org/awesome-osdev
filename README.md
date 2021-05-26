@@ -14,6 +14,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 - [Brokenthorn OS Development Series](http://www.brokenthorn.com/Resources/)
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
+- [Rust Limine Bare Bones](https://github.com/Quentincestino/rust_limine_barebones)
 - [The little book about OS development](https://littleosbook.github.io/)
 
 ## Courses

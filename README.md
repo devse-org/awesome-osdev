@@ -20,6 +20,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 ## Courses
 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- [Operating Systems Tutorials by the Austrian Institute of Applied Information Processing and Communications](https://www.iaik.tugraz.at/teaching/materials/os/tutorials/)
 
 ## Manuals and Specifications
 

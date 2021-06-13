@@ -97,3 +97,4 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [Navy](https://github.com/keyboard-slayer/navy)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64)
+- [Brutal](https://github.com/brutal-org/brutal)

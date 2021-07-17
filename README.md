@@ -16,8 +16,9 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 - [Rust Limine Bare Bones](https://github.com/Quentincestino/rust_limine_barebones)
 - [The little book about OS development](https://littleosbook.github.io/)
+- [James Molloy Kernel development](http://www.jamesmolloy.co.uk/tutorial_html/)
 
-## Courses
+ ## Courses
 
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Operating Systems Tutorials by the Austrian Institute of Applied Information Processing and Communications](https://www.iaik.tugraz.at/teaching/materials/os/tutorials/)

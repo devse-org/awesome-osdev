@@ -99,3 +99,4 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64)
 - [Brutal](https://github.com/brutal-org/brutal)
+- [MandelbrotOS](https://github.com/MandelbrotOS/MandelbrotOS)

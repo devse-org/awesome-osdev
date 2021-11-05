@@ -32,7 +32,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [SMBIOS](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.4.0.pdf)
 - [NVMe](https://nvmexpress.org/wp-content/uploads/NVM-Express-1_4a-2020.03.09-Ratified.pdf)
 - [raspberrypi](https://github.com/raspberrypi/documentation)
-- [RISC-V](https://riscv.org/wp-content/uploads/2019/12/riscv-spec-20191213.pdf)
+- [RISC-V](https://riscv.org/technical/specifications/)
 - [POSIX Specification (2007)](http://www.open-std.org/jtc1/sc22/open/n4217.pdf)
 
 ## Articles

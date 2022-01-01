@@ -82,6 +82,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [xv6](https://github.com/mit-pdos/xv6-public)
 - [Biscuit: An OS kernel in a high-level language](https://pdos.csail.mit.edu/projects/biscuit.html)
 - [linux](https://elixir.bootlin.com/linux/latest/source)
+- [MenuetOS](http://menuetos.net)
 - [ToaruOS](https://toaruos.org/)
 - [SerenityOS](http://serenityos.org/)
 - [managarm](https://github.com/managarm/managarm)

@@ -35,6 +35,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [RISC-V](https://riscv.org/technical/specifications/)
 - [POSIX Specification (2007)](http://www.open-std.org/jtc1/sc22/open/n4217.pdf)
 - [Ext2 manual layout](https://www.nongnu.org/ext2-doc/ext2.pdf)
+- [ARM](https://developer.arm.com/documentation/)
 
 ## Articles
 

@@ -25,7 +25,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 ## Manuals and Specifications
 
 - [Intel](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
-- [AMD](https://www.amd.com/system/files/TechDocs/40332_4.05.pdf)
+- [AMD](https://www.amd.com/system/files/TechDocs/40332.pdf)
 - [ACPI](https://uefi.org/sites/default/files/resources/ACPI_6_3_final_Jan30.pdf)
 - [UEFI](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)
 - [x86 COM](https://www.sci.muni.cz/docs/pc/serport.txt)

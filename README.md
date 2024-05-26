@@ -5,8 +5,6 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 
 ## Tutorials
 
-- **French** [Pépin OS - Réaliser son propre système](https://michelizza.developpez.com/realiser-son-propre-systeme/)
-- **French** [Le petit livre sur le développement d'un OS](https://systeme.developpez.com/tutoriels/systeme-exploitation/petit-livre-developpement-OS/)
 - [Operating System from 0 to 1](http://easing.me/books/Operating_System_From_0_to_1.pdf)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
@@ -16,6 +14,10 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 - [Rust Limine Bare Bones](https://github.com/Quentincestino/rust_limine_barebones)
 - [The little book about OS development](https://littleosbook.github.io/)
+- **Japanese** [Writing an Operating System in 1,000 Lines](https://github.com/nuta/operating-system-in-1000-lines)
+- **French** [Pépin OS - Réaliser son propre système](https://michelizza.developpez.com/realiser-son-propre-systeme/)
+- **French** [Le petit livre sur le développement d'un OS](https://systeme.developpez.com/tutoriels/systeme-exploitation/petit-livre-developpement-OS/)
+
 
 ## Courses
 

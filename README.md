@@ -74,7 +74,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 
 ## Design
 
-- [Operating systems : design and implementation](https://archive.org/details/OperatingSystemsDesignImplementation/mode/2up)
+- [Operating systems: design and implementation](https://archive.org/details/OperatingSystemsDesignImplementation/mode/2up)
 - [Practical File System Design](https://web.archive.org/web/20170213221835/http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 - [linux-insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [Communication in Microkernel-Based Operating Systems](https://os.inf.tu-dresden.de/papers_ps/aigner_phd.pdf)
@@ -83,15 +83,15 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 
 ### Kernels
 
-- [xv6](https://github.com/mit-pdos/xv6-public)
+- [xv6](https://github.com/mit-pdos/xv6-public) (dead)
 - [Biscuit: An OS kernel in a high-level language](https://pdos.csail.mit.edu/projects/biscuit.html)
 - [linux](https://elixir.bootlin.com/linux/latest/source)
 - [MenuetOS](http://menuetos.net)
-- [ToaruOS](https://toaruos.org/)
+- [ToaruOS](https://toaruos.org/) (dead)
 - [SerenityOS](http://serenityos.org/)
 - [managarm](https://github.com/managarm/managarm)
-- [sortix](https://gitlab.com/sortix/sortix)
-- [raspberrypi_kernel](https://github.com/Njord0/raspberrypi_kernel)
+- [sortix](https://gitlab.com/sortix/sortix) 
+- [essence](https://gitlab.com/nakst/essence) (dead)
 
 
 ### Bootloaders
@@ -102,11 +102,11 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 
 #### Operating systems
 
-- [Fukurō](https://github.com/d0p1s4m4/Fukuro)
-- [Navy](https://github.com/keyboard-slayer/navy)
+- [Fukurō](https://github.com/d0p1s4m4/Fukuro) (dead)
+- [Navy](https://github.com/keyboard-slayer/navy) (dead)
 - [skiftOS](https://github.com/skiftOS/skift)
-- [WingOS](https://github.com/Supercip971/WingOS_x64)
-- [Brutal](https://github.com/brutal-org/brutal)
+- [WingOS](https://github.com/Supercip971/WingOS_x64) (dead)
+- [Brutal](https://github.com/brutal-org/brutal) (dead)
 - [SEAC](https://github.com/N-LG/SEAC)
 
 #### Tools

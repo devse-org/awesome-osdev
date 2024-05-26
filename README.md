@@ -41,6 +41,7 @@ You can also check our [subreddit](https://www.reddit.com/r/devse/).
 
 ## Articles
 
+- [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
 - [CPU cores or what SMP is and what it is eaten with](https://sudonull.com/post/9813-CPU-cores-or-what-SMP-is-and-what-it-is-eaten-with)
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [x86 and amd64 instructions latency, throughput and port usage](https://uops.info/table.html)

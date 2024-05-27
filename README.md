@@ -1,7 +1,6 @@
 # Awesome OSDEV
 
-Created by the [DEVSE discord server](https://discord.com/invite/3XjkM6q).
-You can also check our [subreddit](https://www.reddit.com/r/devse/).
+Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q).
 
 ## Tutorials
 

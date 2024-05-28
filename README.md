@@ -4,7 +4,6 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 
 ## Tutorials
 
-- [Operating System from 0 to 1](http://easing.me/books/Operating_System_From_0_to_1.pdf)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
 - [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)

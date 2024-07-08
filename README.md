@@ -100,7 +100,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 
 #### Operating systems
 
-- [Fukurō](https://github.com/d0p1s4m4/Fukuro) (dead)
+- [StupidOS](https://git.cute.engineering/d0p1/StupidOS)
 - [Navy](https://github.com/keyboard-slayer/navy) (dead)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64) (dead)

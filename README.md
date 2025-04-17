@@ -12,7 +12,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 - [Limine Bare Bones](https://github.com/osdev-wiki/limine-barebones)
 - [Rust Limine Bare Bones](https://github.com/Quentincestino/rust_limine_barebones)
 - [The little book about OS development](https://littleosbook.github.io/)
-- **Japanese** [Writing an Operating System in 1,000 Lines](https://github.com/nuta/operating-system-in-1000-lines)
+- [Writing an Operating System in 1,000 Lines](https://github.com/nuta/operating-system-in-1000-lines)
 - **French** [Pépin OS - Réaliser son propre système](https://michelizza.developpez.com/realiser-son-propre-systeme/)
 - **French** [Le petit livre sur le développement d'un OS](https://systeme.developpez.com/tutoriels/systeme-exploitation/petit-livre-developpement-OS/)
 

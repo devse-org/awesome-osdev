@@ -101,7 +101,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 #### Operating systems
 
 - [StupidOS](https://git.cute.engineering/d0p1/StupidOS)
-- [Navy](https://github.com/keyboard-slayer/navy) (dead)
+- [Navy](https://github.com/keyboard-slayer/navy)
 - [skiftOS](https://github.com/skiftOS/skift)
 - [WingOS](https://github.com/Supercip971/WingOS_x64) (dead)
 - [Brutal](https://github.com/brutal-org/brutal) (dead)

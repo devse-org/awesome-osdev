@@ -106,6 +106,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 - [WingOS](https://github.com/Supercip971/WingOS)
 - [Brutal](https://github.com/brutal-org/brutal) (dead)
 - [SEAC](https://github.com/N-LG/SEAC)
+- [NovariaOS](https://github.com/z3nnix/NovariaOS) 
 
 #### Tools
 

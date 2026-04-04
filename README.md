@@ -110,3 +110,4 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 #### Tools
 
 - [cutekit](https://github.com/cute-engineering/cutekit)
+- [Mesa-LP - A Custom-AST, Bilingual Language bridging High-Level Web and Bare-Metal x86.](https://github.com/crackanimad0r/Mesa-LP)

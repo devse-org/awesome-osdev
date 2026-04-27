@@ -90,6 +90,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 - [managarm](https://github.com/managarm/managarm)
 - [sortix](https://gitlab.com/sortix/sortix) 
 - [essence](https://gitlab.com/nakst/essence) (dead)
+- [LateralusOS](https://github.com/bad-antics/lateralus-os) — bare-metal x86_64 OS written in the [Lateralus](https://github.com/bad-antics/lateralus-lang) systems language with a thin C bootstrap; ships kernel, scheduler, IPC, GUI compositor, TCP/IP stack, ext4/FAT32, and a self-hosted toolchain.
 
 
 ### Bootloaders
